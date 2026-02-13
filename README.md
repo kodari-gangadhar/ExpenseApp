@@ -61,6 +61,7 @@ ExpenseApp
 
 ### 1️⃣ Run Backend
 cd expenseapp-backend
+
 ./mvnw spring-boot:run
 
 Backend runs on: 
@@ -70,6 +71,7 @@ http://localhost:8081
 
 ### 2️⃣ Run Frontend
 cd expenseapp-frontend
+
 npm install
 npm start
 
