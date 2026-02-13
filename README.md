@@ -9,11 +9,12 @@ This project demonstrates REST API design, layered backend architecture, databas
 
 ## 🏗️ Project Structure
 
-'''
+```
+
 ExpenseApp
 ├── expenseapp-backend   → Spring Boot REST API
 └── expenseapp-frontend  → React UI
-'''
+```
 
 ---
 
